@@ -12,3 +12,5 @@ function whatToDoForLunch(hungry, availableTime) {
   console.log('availableTime is', availableTime)
 }
 ```
+
+For reference, here is a [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
